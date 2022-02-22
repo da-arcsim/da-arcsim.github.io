@@ -8,17 +8,19 @@ _By: Dorothy Ada A. Simando_
  - I like playing sports.
  - I also play mobile games.
  - My favorite color is purple 💜.
----
-**This page is still in progress.**
-`Stay tuned for more updates`
+
+
+| **This page is still in progress.** |
+| -------- |
+|`Stay tuned for more updates` |
 
 
 
 
 ## Social Media:
 
-- <[facebook]>(https://www.facebook.com/dorothy.dora1512/)
-- <[instagram]>(https://www.instagram.com/dorothyyadaa/)
+- [facebook](https://www.facebook.com/dorothy.dora1512/)
+- [instagram](https://www.instagram.com/dorothyyadaa/)
 
 
 ### Sir Gain's Github
