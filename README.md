@@ -17,8 +17,8 @@ _By: Dorothy Ada A. Simando_
 
 ## Social Media:
 
-- [facebook](https://www.facebook.com/dorothy.dora1512/)
-- [instagram](https://www.instagram.com/dorothyyadaa/)
+- <[facebook]>(https://www.facebook.com/dorothy.dora1512/)
+- <[instagram]>(https://www.instagram.com/dorothyyadaa/)
 
 
 ### Sir Gain's Github
