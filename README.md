@@ -17,6 +17,5 @@ By: Dorothy Ada A. Simando
 ## Social Media:
 ---
 [facebook](https://www.facebook.com/dorothy.dora1512/)
-
 [instagram](https://www.instagram.com/dorothyyadaa/)
 
