@@ -12,7 +12,7 @@ _By: Dorothy Ada A. Simando_
 
 | **This page is still in progress.** |
 | -------- |
-|`Stay tuned for more updates` |
+| Stay tuned for more updates |
 
 
 
