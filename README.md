@@ -8,8 +8,9 @@ _By: Dorothy Ada A. Simando_
  - I like playing sports.
  - I also play mobile games.
  - My favorite color is purple 💜.
-
-
+---
+**This page is still in progress.**
+`Stay tuned for more updates`
 
 
 
