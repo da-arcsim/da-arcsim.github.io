@@ -18,7 +18,7 @@
 
 ## Social Media:
 ---
-`[facebook]`(https://www.facebook.com/dorothy.dora1512/)
+[facebook](https://www.facebook.com/dorothy.dora1512/)
 
-`[instagram]`(https://www.instagram.com/dorothyyadaa/)
+[instagram](https://www.instagram.com/dorothyyadaa/)
 
