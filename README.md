@@ -1,5 +1,5 @@
 # Welcome to Ada's GitHub Page
-By: Dorothy Ada A. Simando
+_By: Dorothy Ada A. Simando_
 
 
 ## All About Dorothy Ada
@@ -16,6 +16,9 @@ By: Dorothy Ada A. Simando
 
 ## Social Media:
 ---
-[facebook](https://www.facebook.com/dorothy.dora1512/)
-[instagram](https://www.instagram.com/dorothyyadaa/)
+`[facebook](https://www.facebook.com/dorothy.dora1512/)`
 
+`[instagram](https://www.instagram.com/dorothyyadaa/)`
+
+### Sir Gain's Github
+`[Sir Gain](https://641n.github.io/)`
