@@ -1,4 +1,6 @@
 # Welcome to Ada's GitHub Page
+By: Dorothy Ada A. Simando
+
 
 ## All About Dorothy Ada
  ---
@@ -6,10 +8,6 @@
  - I like playing sports.
  - I also play mobile games.
  - My favorite color is purple 💜.
-
-
-
-
 
 
 
