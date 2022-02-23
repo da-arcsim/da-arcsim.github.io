@@ -12,9 +12,7 @@ _By: Dorothy Ada A. Simando_
  - My favorite color is purple 💜.
 
 
-| **This page is still in progress.** |
-| -------- |
-| Stay tuned for more updates |
+_**This page is still in progress.** Stay tuned for more updates._
 
 
 
