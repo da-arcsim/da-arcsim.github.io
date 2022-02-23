@@ -23,8 +23,7 @@ _By: Dorothy Ada A. Simando_
 - [instagram](https://www.instagram.com/dorothyyadaa/)
 
 
-### Sir Gain's Github
+### Link to my Computer Teacher's Github
 - [Sir Gain](https://641n.github.io/)
 
----
-**Hello yaon si tata igdi**
+
