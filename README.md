@@ -20,7 +20,7 @@ _**This page is still in progress.** Stay tuned for more updates._
 ## Social Media:
 
 - [facebook](https://www.facebook.com/dorothy.dora1512/)
-- [instagram](https://www.instagram.com/dorothyyadaa/)
+- [instagram](https://www.instagram.com/doraaaa.___/)
 
 
 ### Link to my Computer Teacher's Github
