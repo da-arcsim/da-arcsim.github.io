@@ -4,23 +4,41 @@ _By: Dorothy Ada A. Simando_
 
 
 
-## All About Me
+## ALL ABOUT ME
 
  - I am 14 years old.
  - I play taekwondo	🥋.
  - I also play mobile games.
  - My favorite color is purple 💜.
 
+## MY ACHIEVEMENTS
+August 11 -2018 Regional Inter-School Taekwondo Championship
+Bronze - Poomsae Single
+Gold - Poomsae Team
+November 7 -City Meet 2018
+Participated in Taekwondo Poomsae Single
+Silver - Poomsae Team
+November 27, 2018 -19th Regional Taekwondo Championship
+Gold - Poomsae Single
+Gold - Poomsae Team
+May 25 -2019 Regional Age Group
+Bronze- Poomsae Single
+Silver - Poomsae Double
+Silver - Poomsae Trio
+June 8, 2019 -Inter-barangay Sports Event
+First Runner-up - Taekwondo Poomsae Single
+June 23 -2019 National Poomsae Taekwondo Championships
+Participated in Poomsae Single and Poomsae Mixed Team
+October 26, 2019 -Regional Inter-School Taekwondo Championship
+Silver - Poomsae Single
+Silver - Poomsae Double
+Gold - Poomsae Trio
+November 15 -City Meet 2019
+Bronze - Taekwondo Poomsae Trio
+August 13-14, 2022 R5 Regional Kyorugi, Poomsae, and Speed Kicking Championship
+Silver Medal - Poomsae Single, Blackbelt Cadet
+Bronze Medal - Poomsae Team, Blackbelt Cadet
 
-_**This page is still in progress.** Stay tuned for more updates._
-
-**K-pop Playlist to vibe with**
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX4RDXswvP6Mj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-
-**Relaxing Songs to Listen to**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z0QJWWfTKuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Social Media:
