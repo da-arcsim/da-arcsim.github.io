@@ -1,4 +1,4 @@
-# Welcome to Ada's GitHub Page
+# WELCOME TO MY GITHUB PAGE
 _By: Dorothy Ada A. Simando_
 
 
